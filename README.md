@@ -1,5 +1,8 @@
 ‼️ ⚠️ This is a read-only mirror of `ruptures`, a Python library for off-line change point detection. ‼️ ⚠️
 
+‼️ ⚠️ Actual code, issue tracker and changelog can be found here: [deepcharles/ruptures](https://github.com/deepcharles/ruptures). ‼️ ⚠️
+
+
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/deepcharles/ruptures/graphs/commit-activity)
 ![build](https://github.com/deepcharles/ruptures/workflows/build/badge.svg)
 ![python](https://img.shields.io/badge/python-3.6%20|%203.7%20|%203.8%20|%203.9-blue)
